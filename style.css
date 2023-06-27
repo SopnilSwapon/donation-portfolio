@@ -1,3 +1,41 @@
 body{
+    font-family: 'Poppins', sans-serif;
 
+}
+h1{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color:violet;
+    border-radius: 10%;
+    padding: 10px 20px;
+}
+.flexible-contain{
+    display: flex;
+}
+.width{
+    width: 100%;
+    padding-left: 7%;
+    box-shadow: 10px 15px 20px;
+    border: 5px solid gray;                                              
+}
+.border-line{
+    border: 10px solid green;
+}
+.align-style{
+    text-align: center;
+}
+#bg-color{
+    background-color: grey;
+    padding-left: 5%;
+}
+#pp-color{
+    background-color: bisque;
+    padding-left: 5%;
+}
+#bp-color{
+    background-color: aquamarine;
+    padding-left: 5%;
 }
