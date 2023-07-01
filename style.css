@@ -61,3 +61,26 @@ a{
 h2{
     text-align: center;
 }
+.Subscribe-button{
+    background-color: tomato;
+    padding: 3px 2px;
+    border-radius: 5%;
+}
+.last-area{
+ .background-color: cadetblue;}
+ .update-area{
+    text-align: center; }
+    .update-area{
+        background-color: moccasin;
+        padding: 30px 60px;
+        padding-left: 35px;}
+        footer{
+            text-align: right;
+            color: green;
+            margin-top: 5%;
+            margin-right: 5%;
+            
+        }
+
+    
+        
