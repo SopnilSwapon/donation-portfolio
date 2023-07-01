@@ -8,9 +8,10 @@ h1{
 a{
     text-decoration: none;
     color: white;
-    background-color:violet;
+    background-color:tomato;
     border-radius: 10%;
     padding: 10px 20px;
+    text-align: center;
 }
 .flexible-contain{
     display: flex;
@@ -38,4 +39,25 @@ a{
 #bp-color{
     background-color: aquamarine;
     padding-left: 5%;
+}
+.font-size{
+    font-size: 35px;
+    text-align: center;
+    color: brown;
+}
+.image-width{
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.margin-style{
+    margin-left: 20%;
+}
+.box-style{
+    color: white;
+    background-color: tomato;
+
+}
+h2{
+    text-align: center;
 }
